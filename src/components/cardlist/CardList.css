@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "db";
+    src: url(../../assets/fonts/Saiyan-Sans.ttf);
+}
+
+.cardlistsec{
+    display: flex;
+    flex-wrap: wrap;
+    font-family: db;
+    column-gap:  3%;
+    row-gap: 6vh;
+    justify-content: center;
+    align-items: center;
+    margin-inline: 12%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
